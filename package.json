@@ -1,0 +1,24 @@
+{
+  "name": "koa-happy",
+  "version": "0.0.1",
+  "description": "high-order collections for koa.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeliex/koa-happy.git"
+  },
+  "keywords": [
+    "koa",
+    "router",
+    "decorator"
+  ],
+  "author": "yeliex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeliex/koa-happy/issues"
+  },
+  "homepage": "https://github.com/yeliex/koa-happy#readme"
+}
